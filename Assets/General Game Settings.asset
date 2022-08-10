@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e409a417d939f94d9709930741b7a98, type: 3}
+  m_Name: General Game Settings
+  m_EditorClassIdentifier: 
+  moreGamesLink: 
+  instagram_username: 
+  facebook_page_ID: 
+  gameId: 
+  InterstitialAdId: Interstitial_Android
+  BannerAd_ID: Banner_Android
+  showInterstitialAfter_n_win: 2
+  test_Mode: 1
+  GDPR_message: we care about your privacy and data security. we keep apps free by
+    showing ads. can we continue to use your data to adjust ads for you ?
+  privacy_Policy_Link: https://unity3d.com/legal/privacy-policy
+  coinsNumber_to_skip: 80
+  coinsNumber_to_AddnewBottle: 35
+  coinsNumber_to_UndoMoves: 40
+  coinsNumberRewarded_bottleFillsUp: 15
+  click_sound: {fileID: 8300000, guid: 587ce4d27503d82478ff152b39b83341, type: 3}
+  LiquidTransfertSpeed: 1.8
+  shopTubes:
+  - objectPrefab: {fileID: 1088830868489582013, guid: 290892ef4efb43a4a8580973f9ce69ff, type: 3}
+    coinsNumber_To_Unlock: 0
+    isOpened: 1
+    prefabSprite: {fileID: 21300000, guid: d27427ab82fcd5344b5f99b6b554ec7a, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: 510ddf080c9b24a46af74ffc026213a1, type: 3}
+    coinsNumber_To_Unlock: 799
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 81c783390591dc445bcf063e313d0c8c, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: 5d210c2d8dc0e8d4b983318c3cc7f0d2, type: 3}
+    coinsNumber_To_Unlock: 899
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: fed76cacf4597e141b01951544eeecfa, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: b819393abb28a9d4e9432ae93645bd0a, type: 3}
+    coinsNumber_To_Unlock: 999
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: ded093fbc2273454cb14920623f6630d, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: be3f67df7cb062d44ad9227a4096b996, type: 3}
+    coinsNumber_To_Unlock: 1299
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 1923f809f1c1fbb4eb0e4f47cbc51596, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: c204cf2f90071714c8e75e277cb25cc0, type: 3}
+    coinsNumber_To_Unlock: 1299
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: d8f0b8dc895867e40a5d5bbfa43df60a, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: 2779d4ff452204d4780c510d7afc6c94, type: 3}
+    coinsNumber_To_Unlock: 1499
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: ecbbb67ebbd4f654eb3ba291972ecf6c, type: 3}
+  - objectPrefab: {fileID: 1088830868489582013, guid: b2d3de1a910a0ef4f95e99feba0ce651, type: 3}
+    coinsNumber_To_Unlock: 1999
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 03e29b1837bed104abaf34e066c8f4fb, type: 3}
+  shopBackgrounds:
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 0
+    isOpened: 1
+    prefabSprite: {fileID: 21300000, guid: 691d92e453a10524395a8af3f3b1b756, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 0
+    isOpened: 1
+    prefabSprite: {fileID: 21300000, guid: be0bce1a40342ce42af09920566a5079, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 499
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 20aef44f7f882ba42b92e93456caebcd, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 899
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: be005a19259ff4040ba11f01ad64b420, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 899
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 26a7a86ff8593ba49a76030119fbb013, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 899
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 9ae0989bb7a156c4dab8e10c2695d3f3, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 899
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: a1a43641e3525bf42b151e0f35f4f9d3, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 799
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: aed7a090afcf6db42b5e56df37c820b6, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 999
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 5164011ac22714e48826f7198d7f2460, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 1299
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 691d92e453a10524395a8af3f3b1b756, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 60
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 8f90c89c246e77f4dba91e26cc9342d0, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 130
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 8520e7710f175d744b0810bf53e284e6, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 2100
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 8b9a7727ccb26ad45976cbfb63c43630, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 2200
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 1ec1c2a6db431274b8d8f72cdf9715bb, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 220
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 09cf3685ffb9e804f9e14c5b20bc3d3f, type: 3}
+  - objectPrefab: {fileID: 0}
+    coinsNumber_To_Unlock: 2999
+    isOpened: 0
+    prefabSprite: {fileID: 21300000, guid: 26a7a86ff8593ba49a76030119fbb013, type: 3}

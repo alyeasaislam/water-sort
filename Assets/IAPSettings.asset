@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a96b4daca42c14ead9cd5b2adf16a7, type: 3}
+  m_Name: IAPSettings
+  m_EditorClassIdentifier: 
+  IapId_removeAds: buy_Remove_Ads
+  IapId_BuyCoins_1: buy_stars_section_1
+  IapId_buyCoins_2: buy_stars_section_2
+  IapId_UnlockBottles: buy_unlock_bottles
+  IapId_unlock_background: buy_unlock_backgrounds
+  buyCoins_1_price: 1.99 $
+  buyCoins_2_price: 2.99 $
+  remove_ads_price: 4.99 $
+  unlock_bottles_price: 3.99 $
+  unlock_backgrounds_price: 3.99 $
+  buy_Coinssection1_Coins_value: 1000
+  buy_Coinssection2_Coins_value: 5000

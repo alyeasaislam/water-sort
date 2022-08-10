@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 1d86c2ee059de2d4fa307d8c28271772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8592586765090443942
+    second: shop Panel scene_0
+  - first:
+      213: -7997764600842012988
+    second: shop Panel scene_1
+  - first:
+      213: -1730556083746081232
+    second: shop Panel scene_2
+  - first:
+      213: 7410143830663742621
+    second: shop Panel scene_3
+  - first:
+      213: -3005628739730666438
+    second: shop Panel scene_4
+  - first:
+      213: -3333735559160150536
+    second: shop Panel scene_5
+  - first:
+      213: -6504824364194784597
+    second: shop Panel scene_6
+  - first:
+      213: 3602865516897944003
+    second: shop Panel scene_7
+  - first:
+      213: 6940919078658478751
+    second: shop Panel scene_8
+  - first:
+      213: -1309754937867985070
+    second: shop Panel scene_9
+  - first:
+      213: -9172634641261495506
+    second: shop Panel scene_10
+  - first:
+      213: -7592837063388102711
+    second: shop Panel scene_11
+  - first:
+      213: -7510081015414608601
+    second: shop Panel scene_12
+  - first:
+      213: 2830547482141268745
+    second: shop Panel scene_13
+  - first:
+      213: -3641637237382765491
+    second: shop Panel scene_14
+  - first:
+      213: 6933608845001882969
+    second: shop Panel scene_15
+  - first:
+      213: -5511864592414428571
+    second: shop Panel scene_16
+  - first:
+      213: -7363579106466680032
+    second: shop Panel scene_17
+  - first:
+      213: 2318412946921512136
+    second: shop Panel scene_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shop Panel scene_0
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 3579
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5daf05dcdff0c880800000000000000
+      internalID: -8592586765090443942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_1
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3579
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63e91387b320190800000000000000
+      internalID: -7997764600842012988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_2
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 3579
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0367c642964dbf7e0800000000000000
+      internalID: -1730556083746081232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_3
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 3580
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c349ad8e16d660800000000000000
+      internalID: 7410143830663742621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_4
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 3484
+        width: 317
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c06a1f59cd946d0800000000000000
+      internalID: -3005628739730666438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_5
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1683
+        width: 1437
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5cb2dfb213cb1d0800000000000000
+      internalID: -3333735559160150536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2878
+        width: 545
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1ddd64b83ab5a0800000000000000
+      internalID: -6504824364194784597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2730
+        width: 620
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c43c4913fff130800000000000000
+      internalID: 3602865516897944003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2730
+        width: 622
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929b22a029135060800000000000000
+      internalID: 6940919078658478751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_9
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 1378
+        width: 1124
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9099c2d0d2dde0800000000000000
+      internalID: -1309754937867985070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_10
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 2969
+        width: 805
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7a29746144b080800000000000000
+      internalID: -9172634641261495506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1947
+        width: 619
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff45f5be2d0a690800000000000000
+      internalID: -7592837063388102711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_12
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 2064
+        width: 891
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72daec94b15d6c790800000000000000
+      internalID: -7510081015414608601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_13
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 1674
+        width: 891
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b18e820ff184720800000000000000
+      internalID: 2830547482141268745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_14
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1259
+        width: 1085
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4427f01a3e467dc0800000000000000
+      internalID: -3641637237382765491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_15
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 1287
+        width: 891
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df7d93280293060800000000000000
+      internalID: 6933608845001882969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_16
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 841
+        width: 1085
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b5173b5ce183b0800000000000000
+      internalID: -5511864592414428571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_17
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 420
+        width: 1085
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b09b01df4fc990800000000000000
+      internalID: -7363579106466680032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop Panel scene_18
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 0
+        width: 1086
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5cefaa48ac2020800000000000000
+      internalID: 2318412946921512136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
